@@ -91,3 +91,9 @@ td {
     padding: 12px;
     border: 1px solid #8b5a2b;
 }
+aside {
+    display: grid;
+    gap: 24px;
+    justify-items: center;
+}
+s
